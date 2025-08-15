@@ -7,7 +7,15 @@
     "userInterfaceStyle": "dark",
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.blueq.app"
+      "package": "com.blueq.app2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c9d15213-0845-426b-a2fc-207a58e3eeb8"
+      }
+    },
+    "cli": {
+      "appVersionSource": "remote"
     }
   }
 }
