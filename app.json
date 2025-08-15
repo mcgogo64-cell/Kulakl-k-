@@ -1,28 +1,13 @@
 {
   "expo": {
-    "name": "bluEQ",
+    "name": "Blueq",
     "slug": "blueq",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./icon.png",
     "userInterfaceStyle": "dark",
-    "splash": {
-      "image": "./icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0f1115"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.blueq.app",
-      "adaptiveIcon": {
-        "foregroundImage": "./icon.png",
-        "backgroundColor": "#0f1115"
-      }
+      "package": "com.blueq.app"
     }
   }
 }
