@@ -1,16 +1,14 @@
 {
   "expo": {
     "name": "Kulaklık",
-    "slug": "kulaklık",
+    "slug": "kulaklik-",
     "version": "1.0.1",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "assetBundlePatterns": ["**/*"],
     "android": { "package": "com.kulaklik.app" },
     "extra": {
-      "eas": {
-        "projectId": "c9d15213-0845-426b-a2fc-207a58e3eeb8"
-      }
+      "eas": { "projectId": "c9d15213-0845-426b-a2fc-207a58e3eeb8" }
     },
     "cli": { "appVersionSource": "remote" }
   }
