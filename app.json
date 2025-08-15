@@ -1,14 +1,12 @@
 {
   "expo": {
-    "name": "Blueq",
-    "slug": "blueq",
+    "name": "Kulaklık",
+    "slug": "kulaklik",
     "version": "1.0.1",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "assetBundlePatterns": ["**/*"],
-    "android": {
-      "package": "com.blueq.app2"
-    },
+    "android": { "package": "com.kulaklik.app" },
     "extra": {
       "eas": {
         "projectId": "c9d15213-0845-426b-a2fc-207a58e3eeb8"
